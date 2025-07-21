@@ -89,6 +89,4 @@ The analysis will summarize key findings and highlight any interesting trends or
 
 ## How to Run the Project
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/ipl-data-analysis.git
+Open the ipl_analysis.ipynb notebook and run the code.
