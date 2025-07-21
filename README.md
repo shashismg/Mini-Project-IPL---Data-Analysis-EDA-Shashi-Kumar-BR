@@ -89,4 +89,4 @@ The analysis will summarize key findings and highlight any interesting trends or
 
 ## How to Run the Project
 
-Open the ipl_analysis.ipynb notebook and run the code.
+Open the ipynb/py file notebook and run the code.
